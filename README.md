@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leann-nicole
-- 👀 I’m interested in web, game, and mobile development and graphic design.
+- 👀 I’m interested in web, game and mobile development, and graphic design.
 - 🌱 I’m currently learning Machine Learning with Python.
 
 <!---
