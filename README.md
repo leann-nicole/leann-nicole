@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leann-nicole
-- 👀 I’m interested in web, game and mobile development, and graphic design.
-- 🌱 I’m currently learning Machine Learning with Python.
+- 👀 I’m interested in web development, FOSS, and graphic design.
 
 <!---
 leann-nicole/leann-nicole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
